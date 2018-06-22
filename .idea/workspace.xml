@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9825384-7721-42bc-8204-ecba532ff3df" name="Default" comment="" />
+    <list default="true" id="e9825384-7721-42bc-8204-ecba532ff3df" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/android/libs/barcode_scanner_library_v2.3.2.0.aar" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -150,15 +152,15 @@
       <updated>1529563230964</updated>
       <workItem from="1529563232332" duration="73000" />
       <workItem from="1529563403747" duration="7000" />
-      <workItem from="1529563496467" duration="59000" />
+      <workItem from="1529563496467" duration="654000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139000" />
+    <option name="totallyTimeSpent" value="734000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1924" height="1038" extended-state="1" />
+    <frame x="-8" y="0" width="1924" height="1038" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24880128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
